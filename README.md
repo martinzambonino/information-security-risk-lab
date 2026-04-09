@@ -1,7 +1,7 @@
 # Information Security Risk Lab
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/MartinZamboninoG/information-security-risk-lab/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/MartinZamboninoG/information-security-risk-lab)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/martinzambonino/information-security-risk-lab/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/martinzambonino/information-security-risk-lab)
 
 ## What It Does
 
@@ -26,7 +26,7 @@ A hands-on laboratory for learning and applying information security risk manage
 
 ```bash
 # Clone the repository
-git clone https://github.com/MartinZamboninoG/information-security-risk-lab.git
+git clone https://github.com/martinzambonino/information-security-risk-lab.git
 cd information-security-risk-lab
 
 # Create virtual environment
